@@ -1,0 +1,27 @@
+
+button.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+menubtn
+  rotate: false
+  xy: 2, 2
+  size: 312, 90
+  orig: 312, 90
+  offset: 0, 0
+  index: -1
+playbtn
+  rotate: false
+  xy: 630, 2
+  size: 312, 90
+  orig: 312, 90
+  offset: 0, 0
+  index: -1
+scorebtn
+  rotate: false
+  xy: 316, 2
+  size: 312, 90
+  orig: 312, 90
+  offset: 0, 0
+  index: -1
